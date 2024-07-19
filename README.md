@@ -9,7 +9,6 @@
 4. Com o método escolhido, o SageMaker iniciou automaticamente a análise dos dados fornecidos. Durante esse processamento ele faz todo o processo sozinho, como a identificação de colunas relevantes, por exemplo.
 
 5. Após treinar o modelo, o SageMaker devolveu os resultados em gráficos.
-6. 
 ## 🚀 Passo a Passo
 
 ### 1. Selecionar Dataset
